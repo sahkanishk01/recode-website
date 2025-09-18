@@ -168,8 +168,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 
 <div align="center">
-
-Happy open-source contributions and here’s to your career success! 🎉
+Here’s to impactful open-source contributions and continued success in your career! 🎉
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
